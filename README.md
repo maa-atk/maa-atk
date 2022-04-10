@@ -8,6 +8,8 @@
 - 🧮 Page Count: <img src="https://visitor-badge.laobi.icu/badge?page_id=maa-atk">
 - 🗰  Mood Meter: <img src="https://img.shields.io/badge/-🎃%20Mood:%20Happy-black?">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maa-atk)](https://github.com/maa-atk/github-readme-stats)
+
 <!--
 **maa-atk/maa-atk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
