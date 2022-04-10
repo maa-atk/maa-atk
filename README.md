@@ -23,9 +23,10 @@
 <img src="https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean">
 <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase">
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+ <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c">
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter">
-
+<img src="https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter">
 </p>
 
 | <a href="https://github.com/maa-atk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maa-atk&show_icons=true&include_all_commits=true&theme=solarized_dark&hide_border=true" alt="Abhishek's github stats" /></a> | <a href="https://github.com/maa-atk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maa-atk&theme=dark&exclude_repo=ANN,CNN&layout=compact&theme=buefy&hide_border=true" /></a> |
