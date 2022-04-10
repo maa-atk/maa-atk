@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
 <img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java">
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
