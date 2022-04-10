@@ -8,6 +8,7 @@
 - 🧮 Page Count: <img src="https://visitor-badge.laobi.icu/badge?page_id=maa-atk">
 - 🗰  Mood Meter: <img src="https://img.shields.io/badge/-🎃%20Mood:%20Happy-black?">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maa-atk&hide=html)](https://github.com/maa-atk/github-readme-stats)
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=maa-atk&show_icons=true&theme=radical)
 
