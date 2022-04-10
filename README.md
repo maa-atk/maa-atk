@@ -11,7 +11,7 @@
 
 ## ⚡ < Technologies />
 <p align="center">
-<img src=" https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart">
+<img src="https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
