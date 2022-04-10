@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### ![image](https://user-images.githubusercontent.com/59571289/162606393-ba26f5f3-63b5-4c6c-b496-fdf7534dbad2.png) < About Me />
+### ![icon](https://user-images.githubusercontent.com/59571289/162606393-ba26f5f3-63b5-4c6c-b496-fdf7534dbad2.png) < About Me />
 - 🤔 I have tried ```.dart```,``` .py```, ```.js```
 - 🌱 I’m currently exploring procrastination
 - 💬 Talk to me about movies, gaming , history and coding
