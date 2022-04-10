@@ -8,9 +8,9 @@
 - 🧮 Page Count: <img src="https://visitor-badge.laobi.icu/badge?page_id=maa-atk">
 - 🗰  Mood Meter: <img src="https://img.shields.io/badge/-🎃%20Mood:%20Happy-black?">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maa-atk&exclude_repo=ANN,CNN,github-readme-stats,maa-atk.github.io)](https://github.com/maa-atk/github-readme-stats)
+| <a href="https://github.com/maa-atk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maa-atk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abhishek's github stats" /></a> | <a href="https://github.com/maa-atk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maa-atk&exclude_repo=ANN,CNN&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=maa-atk&show_icons=true&theme=radical)
 
 
 <!--
