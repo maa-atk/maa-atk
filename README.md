@@ -3,7 +3,6 @@
 
 ### 🤵 < About Me />
 - 🤔 I have worked with  ```.dart```,``` .py```, ```.js```,```.java```
-- 🌱 I’m currently exploring procrastination
 - 💬 Talk to me about sci-fi , gaming , history and coding
 - 😄 Pronouns: He/His/Him
 - 🧮 Page Count: <img src="https://visitor-badge.laobi.icu/badge?page_id=maa-atk">
